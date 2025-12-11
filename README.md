@@ -12,9 +12,9 @@ I build scalable, production-grade applications with strong focus on
 
 ## 🚀 Currently Working On
 
-- System Design (LLD → HLD), backend architecture, and microservice principles  
 - Large real-world, production-style SaaS applications  
-- Integrating LLMs (Gemini, OpenAI) into practical engineering workflows  
+- Integrating LLMs (Gemini, OpenAI) into practical engineering workflows
+- Learning around System Design (LLD → HLD), backend architecture, and microservice principles
 
 ---
 
