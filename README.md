@@ -2,14 +2,15 @@
 
 # Tanish Kumar
 
-### Software Engineer • React • Node.js • TypeScript
+### Software Engineer • Frontend • Backend • Full Stack • GenAI (Early Stage) • CS Enthusiast
 
-Building scalable backend systems, clean APIs, and production-ready applications.
+Building scalable systems, clean APIs, and production-ready applications.
 
 [Portfolio](https://tanishdev.vercel.app) •
 [LinkedIn](https://linkedin.com/in/tanish29) •
-[GitHub](https://github.com/tanishxdev) •
-tanish.kumar.works@gmail.com
+[LeetCode](https://leetcode.com/u/tanishxdev/) •
+[GeeksforGeeks](https://www.geeksforgeeks.org/profile/tanish_29) •
+[tanish.kumar.works@gmail.com](mailto:tanish.kumar.works@gmail.com)
 
 </div>
 
@@ -19,53 +20,65 @@ tanish.kumar.works@gmail.com
 
 I build complete systems — not demo projects.
 
-My focus is on:
+My focus areas:
 
-- Backend API design
-- Authentication & authorization
-- Async workflows & background jobs
-- Database schema modeling
-- Clean frontend–backend separation
-- Scalable architecture decisions
+Frontend Engineering  
+Backend Systems  
+Full-Stack Architecture  
+Early-stage GenAI Integration  
+Computer Science Fundamentals
+
+I learn by building → testing → refactoring → understanding.
 
 Currently strengthening:
 
 - System Design (LLD → HLD)
 - Distributed backend fundamentals
 - Data Structures & Algorithms
+- Core CS concepts (OS, DBMS, CN, OOP)
 
 ---
 
-## Tech Stack
+# Technical Stack
 
-**Frontend**
+## Frontend
 
 - React
 - Next.js
 - TypeScript
 - Tailwind CSS
+- Component Architecture
+- UI State Management
 
-**Backend**
+## Backend
 
 - Node.js
 - Express.js
 - REST API Design
 - JWT Authentication
-- Role-based Authorization
+- Role-Based Authorization
+- Async Workflows
 
-**Database**
+## Database
 
 - MongoDB
 - PostgreSQL
 - Prisma ORM
 
-**Tools**
+## GenAI (Early Stage)
+
+- LLM API Integration
+- Structured Output Handling
+- Prompt Engineering
+- AI-driven workflows
+
+## Tools
 
 - Git & GitHub
-- Docker
-- Postman
-- Linux
+- Docker (basic)
 - AWS (basic)
+- Linux
+- Postman
 
 ---
 
@@ -73,62 +86,62 @@ Currently strengthening:
 
 ## 1. DevFreebies — Developer Resources Platform
 
-**Stack:** MERN  
-**Live:** https://dev-freebies-alpha.vercel.app  
-**GitHub:** https://github.com/tanishxdev/DevFreebies
+Stack: MERN  
+Live: https://dev-freebies-alpha.vercel.app  
+GitHub: https://github.com/tanishxdev/DevFreebies
 
-Full-stack platform for discovering and sharing curated developer resources.
+Full-stack platform for curated developer resources.
 
-**Core Work**
+Key Contributions:
 
 - Designed REST APIs (CRUD, filtering, pagination)
 - Implemented JWT authentication & protected routes
 - Modeled MongoDB schemas
 - Built reusable React components
-- Managed deployment and real-user flows
+- Managed deployment & real-user flows
 
 ---
 
 ## 2. Calmind — AI-Powered Mental Wellness Platform
 
-**Stack:** Next.js, TypeScript, MongoDB, AI APIs  
-**Live:** https://calmind-beta.vercel.app  
-**GitHub:** https://github.com/TanishKumarDev/calmind
+Stack: Next.js, TypeScript, MongoDB, AI APIs  
+Live: https://calmind-beta.vercel.app  
+GitHub: https://github.com/TanishKumarDev/calmind
 
 Backend-focused AI system with structured session management.
 
-**Core Work**
+Key Contributions:
 
 - Secure API architecture
 - Async workflows & background processing
 - Session-based data modeling
-- Structured AI response handling
-- Clean and distraction-free UI
+- Structured AI output integration
+- Clean, distraction-free UI
 
 ---
 
 ## 3. NotePilot — AI Notes & Exam Preparation Tool
 
-**Stack:** React, Node.js, AI APIs  
-**Live:** https://note-pilot-rho.vercel.app  
-**GitHub:** https://github.com/tanishxdev/NotePilot
+Stack: React, Node.js, AI APIs  
+Live: https://note-pilot-rho.vercel.app  
+GitHub: https://github.com/tanishxdev/NotePilot
 
-AI-powered structured notes and exam prep assistant.
+AI-powered structured notes and exam preparation system.
 
-**Core Work**
+Key Contributions:
 
-- Prompt structuring for controlled output
+- Prompt structuring for reliable outputs
 - Backend API validation & request handling
 - Transforming AI output into structured UI
-- Clean component architecture
+- Clean component-based frontend design
 
 ---
 
-# Data Structures & Problem Solving
+# Data Structures & Algorithms
 
-I consistently practice DSA alongside development to strengthen logical thinking and performance optimization.
+I actively practice DSA alongside development to strengthen logical thinking and performance optimization.
 
-**Topics Covered**
+## Topics Covered
 
 - Arrays & Strings
 - Linked Lists
@@ -138,36 +151,58 @@ I consistently practice DSA alongside development to strengthen logical thinking
 - Trees & Binary Trees
 - Binary Search
 - Sorting & Searching
-- Graph basics
+- Graph Fundamentals
 - Time & Space Complexity Analysis
 
-**Platforms**
+## Practice Platforms
 
-- LeetCode
-- GeeksforGeeks
-- Coding Ninjas (Core CS & DSA Practice)
+LeetCode  
+https://leetcode.com/u/tanishxdev/
+
+GeeksforGeeks  
+https://www.geeksforgeeks.org/profile/tanish_29
+
+Coding Ninjas (Code360)  
+https://www.naukri.com/code360/profile/Tanish_29
+
+Aptitude Practice (Unstop)  
+https://unstop.com/u/23me2tan9891
 
 Focus:
 
-- Writing clean implementations
+- Clean implementations
 - Edge-case handling
-- Optimizing time & space complexity
-- Understanding why solutions work
+- Performance optimization
+- Concept-first understanding
 
 ---
 
-## What I Care About
+# Computer Science Core Practice
+
+Alongside DSA, I actively revise and apply:
+
+- Operating Systems
+- DBMS
+- Computer Networks
+- OOP Principles
+- API Design Patterns
+
+Applied directly in backend & full-stack projects.
+
+---
+
+# Engineering Principles
 
 - Clean backend logic
 - Scalable API structure
-- Code that survives growth
+- Clear separation of concerns
 - Performance-aware implementations
-- Learning through building
+- Learning through real systems
 
 ---
 
 <div align="center">
 
-Always building. Always improving.
+Building systems. Improving daily. Thinking long-term.
 
 </div>
