@@ -2,11 +2,12 @@
 
 # Tanish Kumar
 
-### Software Engineer • Frontend • Backend • Full Stack • GenAI (Early Stage) • CS Enthusiast
+### Software Engineer • Frontend • Backend • Full Stack • GenAI (Early Stage)
 
 Building scalable systems, clean APIs, and production-ready applications.
 
 [Portfolio](https://tanishdev.vercel.app) •
+[Resume](https://drive.google.com/file/d/1gcxTUFAaFsVLzbgNSSxJdqVctFeqQQHx/view?usp=sharing) •
 [LinkedIn](https://linkedin.com/in/tanish29) •
 [LeetCode](https://leetcode.com/u/tanishxdev/) •
 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/tanish_29) •
@@ -16,21 +17,21 @@ Building scalable systems, clean APIs, and production-ready applications.
 
 ---
 
-## About Me
+# About Me
 
-I build complete systems — not demo projects.
+I focus on **building real systems**, not just demo projects.
 
-My focus areas:
+My work sits at the intersection of:
 
-Frontend Engineering  
-Backend Systems  
-Full-Stack Architecture  
-Early-stage GenAI Integration  
-Computer Science Fundamentals
+• Frontend Engineering  
+• Backend Systems  
+• Full-Stack Architecture  
+• Early-stage GenAI integration  
+• Computer Science fundamentals  
 
-I learn by building → testing → refactoring → understanding.
+I learn through **building → testing → refactoring → understanding**.
 
-Currently strengthening:
+Currently improving:
 
 - System Design (LLD → HLD)
 - Distributed backend fundamentals
@@ -68,8 +69,8 @@ Currently strengthening:
 ## GenAI (Early Stage)
 
 - LLM API Integration
-- Structured Output Handling
 - Prompt Engineering
+- Structured Output Handling
 - AI-driven workflows
 
 ## Tools
@@ -84,7 +85,7 @@ Currently strengthening:
 
 # Featured Projects
 
-## 1. DevFreebies — Developer Resources Platform
+## DevFreebies — Developer Resources Platform
 
 Stack: MERN  
 Live: https://dev-freebies-alpha.vercel.app  
@@ -102,7 +103,7 @@ Key Contributions:
 
 ---
 
-## 2. Calmind — AI-Powered Mental Wellness Platform
+## Calmind — AI-Powered Mental Wellness Platform
 
 Stack: Next.js, TypeScript, MongoDB, AI APIs  
 Live: https://calmind-beta.vercel.app  
@@ -116,11 +117,11 @@ Key Contributions:
 - Async workflows & background processing
 - Session-based data modeling
 - Structured AI output integration
-- Clean, distraction-free UI
+- Clean UI architecture
 
 ---
 
-## 3. NotePilot — AI Notes & Exam Preparation Tool
+## NotePilot — AI Notes & Exam Preparation Tool
 
 Stack: React, Node.js, AI APIs  
 Live: https://note-pilot-rho.vercel.app  
@@ -139,9 +140,15 @@ Key Contributions:
 
 # Data Structures & Algorithms
 
-I actively practice DSA alongside development to strengthen logical thinking and performance optimization.
+I actively practice **DSA alongside development** to strengthen logical thinking and performance optimization.
 
-## Topics Covered
+**LeetCode Stats**
+
+- 280+ Problems Solved
+- Strong focus on Medium & Hard problems
+- Consistent practice
+
+Topics Covered:
 
 - Arrays & Strings
 - Linked Lists
@@ -152,9 +159,9 @@ I actively practice DSA alongside development to strengthen logical thinking and
 - Binary Search
 - Sorting & Searching
 - Graph Fundamentals
-- Time & Space Complexity Analysis
+- Time & Space Complexity
 
-## Practice Platforms
+Practice Platforms:
 
 LeetCode  
 https://leetcode.com/u/tanishxdev/
@@ -165,7 +172,7 @@ https://www.geeksforgeeks.org/profile/tanish_29
 Coding Ninjas (Code360)  
 https://www.naukri.com/code360/profile/Tanish_29
 
-Aptitude Practice (Unstop)  
+Unstop  
 https://unstop.com/u/23me2tan9891
 
 Focus:
@@ -179,22 +186,22 @@ Focus:
 
 # Computer Science Core Practice
 
-Alongside DSA, I actively revise and apply:
+Alongside development and DSA, I continuously revise:
 
 - Operating Systems
 - DBMS
 - Computer Networks
-- OOP Principles
+- Object-Oriented Programming
 - API Design Patterns
 
-Applied directly in backend & full-stack projects.
+These concepts are applied directly in backend and full-stack projects.
 
 ---
 
 # Engineering Principles
 
 - Clean backend logic
-- Scalable API structure
+- Scalable API design
 - Clear separation of concerns
 - Performance-aware implementations
 - Learning through real systems
