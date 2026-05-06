@@ -7,8 +7,8 @@
 Building scalable backend systems, clean APIs, AI-powered products, and production-ready applications.
 
 <p align="center">
-  <a href="https://tanishdev.vercel.app">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1gcxTUFAaFsVLzbgNSSxJdqVctFeqQQHx/view?usp=sharing">Resume</a> •
+  <a href="https://tanishxdev-site.vercel.app/">Portfolio</a> •
+  <a href="https://drive.google.com/file/d/1MloJmuNONStwYf5p3egIRpvaB1XXENOA/view?usp=sharing">Resume</a> •
   <a href="https://linkedin.com/in/tanish29">LinkedIn</a> •
   <a href="https://leetcode.com/u/tanishxdev/">LeetCode</a> •
   <a href="https://www.geeksforgeeks.org/profile/tanish_29">GeeksforGeeks</a>
