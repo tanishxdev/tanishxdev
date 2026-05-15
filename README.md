@@ -1,26 +1,37 @@
 <div align="center">
 
-# Hi, I'm Tanish Kumar
+# Tanish Kumar
 
 ### Backend Engineer • Full Stack Developer • GenAI Explorer
 
-Building scalable backend systems, clean APIs, AI-powered products, and production-ready applications.
+Building scalable backend systems, production-ready applications, and AI-powered workflows.
 
-<p align="center">
-  <a href="https://tanishxdev-site.vercel.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1MloJmuNONStwYf5p3egIRpvaB1XXENOA/view?usp=sharing">Resume</a> •
-  <a href="https://linkedin.com/in/tanish29">LinkedIn</a> •
-  <a href="https://leetcode.com/u/tanishxdev/">LeetCode</a> •
-  <a href="https://www.geeksforgeeks.org/profile/tanish_29">GeeksforGeeks</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Focused+Engineer;Building+Production+Ready+Systems;Scalable+APIs+%2B+System+Design;Distributed+Systems+Learner;Exploring+GenAI+%2B+AI+Workflows" />
 
-<p align="center">
-  <a href="mailto:tanish.kumar.works@gmail.com">tanish.kumar.works@gmail.com</a>
-</p>
+<br/>
 
----
+<a href="https://tanishxdev-site.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Focused+Engineer;Building+Production+Ready+Systems;Learning+Distributed+Systems;Exploring+GenAI+and+AI+Workflows;Consistent+DSA+%2B+Development+Journey" />
+<a href="https://linkedin.com/in/tanish29">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tanish.kumar.works@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/tanishxdev/">
+  <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/tanishxdev">
+  <img src="https://img.shields.io/github/followers/tanishxdev?style=for-the-badge"/>
+</a>
+<a href="https://drive.google.com/file/d/1MloJmuNONStwYf5p3egIRpvaB1XXENOA/view?usp=sharing_blank">
+  <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=google-drive&logoColor=white"/>
+</a>
 
 </div>
 
@@ -28,53 +39,41 @@ Building scalable backend systems, clean APIs, AI-powered products, and producti
 
 # About Me
 
-I focus on building **real-world systems** instead of tutorial-based projects.
-
-My interest lies in combining:
-
-- Backend Engineering
-- Full Stack Development
-- API Architecture
-- System Design
-- Early-stage GenAI integration
-- Computer Science fundamentals
-
-I learn by:
-
-```txt
-Build → Break → Debug → Refactor → Understand
-````
+- Backend-focused full stack developer
+- Interested in scalable systems & API architecture
+- Exploring distributed systems and GenAI workflows
+- Strong focus on clean architecture & production-ready engineering
+- Consistent DSA + CS fundamentals practice
+- Learn by building real-world systems
 
 ---
 
 # Current Focus
 
-Currently deeply focused on:
-
-* Backend Engineering
-* Scalable API Design
-* Async & Event-driven Systems
-* Authentication & Security
-* System Design (LLD → HLD)
-* Distributed Systems Fundamentals
-* GenAI Applications & AI Workflows
-
-Exploring on the side:
-
-* AI/ML fundamentals
-* RAG systems
-* Agent workflows
-* LLM integrations
-* AI-powered developer tools
+- Scalable Backend Systems
+- Async & Event-driven Architectures
+- System Design (LLD → HLD)
+- Authentication & Security
+- Distributed Systems Fundamentals
+- AI-powered Applications
+- RAG & Agent Workflows
 
 ---
 
 # Tech Stack
 
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+</p>
+
+---
+
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
 </p>
 
 ---
@@ -82,7 +81,7 @@ Exploring on the side:
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ---
@@ -90,152 +89,178 @@ Exploring on the side:
 ## Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" />
 </p>
 
 ---
 
-## GenAI & AI
+## DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-* LLM API Integration
-* Prompt Engineering
-* Structured AI Outputs
-* AI Workflow Automation
-* RAG (Learning Phase)
-
----
-
-## Dev Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,vscode" />
 </p>
 
 ---
 
 # Featured Projects
 
-# 1. DevFreebies — Developer Resources Platform
+## DevFreebies
 
-### MERN Stack Platform for Curated Developer Resources
+Developer resource aggregation platform with scalable backend APIs, authentication, filtering, pagination, and reusable frontend architecture.
+
+### Tech
+`MERN` `JWT` `MongoDB` `REST APIs`
 
 <p>
-  <a href="https://dev-freebies-alpha.vercel.app">Live Demo</a> •
-  <a href="https://github.com/tanishxdev/DevFreebies">GitHub</a>
+  <a href="https://dev-freebies-alpha.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
+  </a>
+
+  <a href="https://github.com/tanishxdev/DevFreebies">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
+  </a>
 </p>
-
-## Key Contributions
-
-* Designed scalable REST APIs
-* CRUD operations with filtering & pagination
-* JWT Authentication & protected routes
-* MongoDB schema modeling
-* Reusable frontend component architecture
-* Deployment & production handling
 
 ---
 
-# 2. Calmind — AI-Powered Mental Wellness Platform
+## Calmind
 
-### AI-assisted session & wellness management platform
+AI-powered wellness platform focused on structured AI integrations, session workflows, scalable backend architecture, and secure APIs.
+
+### Tech
+`Next.js` `Node.js` `AI APIs` `TypeScript`
 
 <p>
-  <a href="https://calmind-beta.vercel.app">Live Demo</a> •
-  <a href="https://github.com/TanishKumarDev/calmind">GitHub</a>
+  <a href="https://calmind-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
+  </a>
+
+  <a href="https://github.com/TanishKumarDev/calmind">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
+  </a>
 </p>
-
-## Key Contributions
-
-* Backend-focused architecture
-* Structured AI integrations
-* Session-based workflows
-* Async processing pipelines
-* Secure API handling
-* Clean scalable frontend structure
 
 ---
 
-# 3. NotePilot — AI Notes & Exam Preparation Tool
+## NotePilot
 
-### AI-powered smart notes generation platform
+AI-assisted notes and exam preparation platform with structured AI outputs, optimized response pipelines, and component-driven architecture.
+
+### Tech
+`React` `Node.js` `AI APIs` `MongoDB`
 
 <p>
-  <a href="https://note-pilot-rho.vercel.app">Live Demo</a> •
-  <a href="https://github.com/tanishxdev/NotePilot">GitHub</a>
+  <a href="https://note-pilot-rho.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
+  </a>
+
+  <a href="https://github.com/tanishxdev/NotePilot">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
+  </a>
 </p>
 
-## Key Contributions
+---
 
-* AI prompt structuring
-* Backend validation pipelines
-* Structured AI output rendering
-* Component-driven frontend architecture
-* API handling & response optimization
+# Work Experience
+
+## Backend Developer Intern — Zigguratss
+
+### Mar 2026 — Present
+
+- Designed and maintained 10+ scalable REST APIs supporting core product workflows
+- Improved API and database performance by optimizing redundant queries and response handling
+- Modeled scalable PostgreSQL and MongoDB schemas for reliable system architecture
+- Implemented validation, rate limiting, and failure-safe backend logic
+- Collaborated across frontend and backend teams for end-to-end feature delivery
+- Contributed to modular backend architecture and scalable system growth
+
+### Tech
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `REST APIs`
+
+---
+
+## Frontend Developer Intern — Tech Mahindra Foundation
+
+### Feb 2022 — May 2022
+
+- Developed reusable and responsive UI components
+- Integrated frontend with REST APIs and managed reliable data flow
+- Debugged UI/API issues and improved application consistency
+- Worked on scalable component-driven frontend architecture
+
+### Tech
+`React.js` `JavaScript` `REST APIs`
+
+---
+
+# Open Source Contributions
+
+- Exploring real-world open-source collaboration workflows
+- Contributing through issue fixing, debugging, and feature improvements
+- Interested in backend engineering, developer tooling, and scalable systems
+- Continuously improving code quality, architecture understanding, and production practices
+
+---
+
+## Areas of Interest
+
+- Backend Infrastructure
+- API Architecture
+- Performance Optimization
+- Developer Experience
+- AI-powered Applications
+- System Design
+- Distributed Systems
 
 ---
 
 # Data Structures & Algorithms
 
-I consistently practice DSA alongside development to improve:
+Consistently solving DSA problems to improve:
 
-* Problem-solving
-* Optimization thinking
-* Edge-case handling
-* Performance analysis
+- Problem-solving ability
+- Optimization thinking
+- Edge-case handling
+- Performance analysis
+- Interview preparation
 
 ---
 
 ## Platforms
 
-<p align="left">
-  <a href="https://leetcode.com/u/tanishxdev/">
-    <img src="https://img.shields.io/badge/LeetCode-280%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+<p>
 
-  <a href="https://www.geeksforgeeks.org/profile/tanish_29">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
+<a href="https://leetcode.com/u/tanishxdev/">
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-  <a href="https://www.naukri.com/code360/profile/Tanish_29">
-    <img src="https://img.shields.io/badge/Code360-Active-blue?style=for-the-badge" />
-  </a>
+<a href="https://www.geeksforgeeks.org/profile/tanish_29">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
 
-  <a href="https://unstop.com/u/23me2tan9891">
-    <img src="https://img.shields.io/badge/Unstop-Profile-purple?style=for-the-badge" />
-  </a>
+<a href="https://www.naukri.com/code360/profile/Tanish_29">
+  <img src="https://img.shields.io/badge/Code360-Active-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://unstop.com/u/23me2tan9891">
+  <img src="https://img.shields.io/badge/Unstop-Profile-purple?style=for-the-badge"/>
+</a>
+
 </p>
-
----
-
-## Topics Covered
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Binary Trees
-* Recursion & Backtracking
-* Binary Search
-* Hashing
-* Graph Fundamentals
-* Sorting Techniques
-* Time & Space Complexity
 
 ---
 
 # CS Fundamentals
 
-I continuously revise and apply:
+Continuously revising and applying:
 
-* Operating Systems
-* DBMS
-* Computer Networks
-* OOPs
-* API Design Patterns
-* Backend Architecture Concepts
+- Operating Systems
+- DBMS
+- Computer Networks
+- OOPs
+- API Design
+- Backend Architecture
+- Scalability Concepts
 
 These concepts directly influence how I design backend systems and scalable applications.
 
@@ -252,32 +277,23 @@ These concepts directly influence how I design backend systems and scalable appl
 • Learn by Building
 ```
 
+---
 
+# GitHub Insights
 
-<!-- # GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=tokyonight" height="170" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishxdev&theme=tokyonight" height="170" />
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=tanishxdev&theme=github-dark&hide_border=true&border_radius=10" />
+
+</div>
 
 ---
 
 # Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishxdev&theme=tokyo-night" />
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=tanishxdev&theme=github-compact&hide_border=true&radius=10" />
 </p>
-
----
-
-<div align="center">
-
-## Building systems consistently.
-
-## Learning deeply.
-
-## Thinking long-term.
-
-</div> -->
