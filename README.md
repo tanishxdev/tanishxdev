@@ -6,7 +6,6 @@
 
 Building scalable products, AI-powered applications, and data-driven systems that solve real-world problems.
 
- 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Engineering;Full+Stack+Development;AI-Powered+Applications;System+Design+%26+Scalable+APIs" />
 
 <br/>
@@ -29,7 +28,6 @@ Building scalable products, AI-powered applications, and data-driven systems tha
 
 </div>
 
-
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanishxdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p> -->
@@ -38,13 +36,13 @@ Building scalable products, AI-powered applications, and data-driven systems tha
 
 # About Me
 
-I'm a Software Engineer focused on backend engineering, full-stack development, and AI-powered applications.
+I'm a Software Engineer who enjoys building things from scratch and learning how real-world systems work.
 
-I enjoy building products from idea to deployment, designing scalable APIs, working with databases, and solving real-world problems through software.
+My interests include backend engineering, full-stack development, AI applications, and data-driven products. I enjoy working on APIs, databases, product features, and solving problems that have a real impact on users.
 
-Currently exploring system design, AI workflows, RAG systems, and data-driven product development while strengthening DSA and core computer science fundamentals.
+Beyond coding, I'm curious about how products grow, how teams make decisions, and how data can be used to improve user experiences.
 
----
+**Currently exploring system design, AI workflows, RAG systems, and scalable architectures while consistently practicing DSA and strengthening core computer science fundamentals.**
 
 # Education
 
