@@ -2,10 +2,11 @@
 
 # Tanish Kumar
 
-### Software Engineer • Backend Engineer • Full Stack Developer
+### Software Engineer • Backend Engineer • Product Builder
 
-Building scalable products, AI-powered applications, and data-driven systems.
+Building scalable products, AI-powered applications, and data-driven systems that solve real-world problems.
 
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Engineering;Full+Stack+Development;AI-Powered+Applications;System+Design+%26+Scalable+APIs" />
 
 <br/>
@@ -27,6 +28,7 @@ Building scalable products, AI-powered applications, and data-driven systems.
 </a>
 
 </div>
+
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanishxdev&label=Profile%20Views&color=0e75b6&style=flat" />
