@@ -2,11 +2,11 @@
 
 # Tanish Kumar
 
-### Backend Engineer • Full Stack Developer • GenAI Explorer
+### Software Engineer • Backend Engineer • Full Stack Builder
 
-Building scalable backend systems, production-ready applications, and AI-powered workflows.
+Building scalable products, AI-powered applications, and data-driven systems.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Focused+Engineer;Building+Production+Ready+Systems;Scalable+APIs+%2B+System+Design;Distributed+Systems+Learner;Exploring+GenAI+%2B+AI+Workflows" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Engineering;Full+Stack+Product+Development;AI-Powered+Applications;System+Design+%26+Scalable+APIs" />
 
 <br/>
 
@@ -26,37 +26,33 @@ Building scalable backend systems, production-ready applications, and AI-powered
   <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/tanishxdev">
-  <img src="https://img.shields.io/github/followers/tanishxdev?style=for-the-badge"/>
-</a>
-<a href="https://drive.google.com/file/d/1MloJmuNONStwYf5p3egIRpvaB1XXENOA/view?usp=sharing_blank">
-  <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
 # About Me
 
-- Backend-focused full stack developer
-- Interested in scalable systems & API architecture
-- Exploring distributed systems and GenAI workflows
-- Strong focus on clean architecture & production-ready engineering
-- Consistent DSA + CS fundamentals practice
-- Learn by building real-world systems
+I'm a Software Engineer passionate about building products from idea to deployment.
+
+My primary interests lie in backend engineering, full-stack development, system design, and AI-powered applications. I enjoy designing APIs, architecting scalable systems, working with databases, and solving real-world problems through technology.
+
+Recently, I've been exploring how AI, automation, and data can be integrated into products to improve user experiences and support better decision-making.
+
+Outside of development, I spend time practicing Data Structures & Algorithms, strengthening Computer Science fundamentals, contributing to open source, and learning how large-scale systems operate in production.
 
 ---
 
 # Current Focus
 
-- Scalable Backend Systems
-- Async & Event-driven Architectures
-- System Design (LLD → HLD)
-- Authentication & Security
-- Distributed Systems Fundamentals
-- AI-powered Applications
-- RAG & Agent Workflows
+| Area                   | Focus                                           |
+| ---------------------- | ----------------------------------------------- |
+| Backend Engineering    | APIs, Authentication, Security, Database Design |
+| Full Stack Development | React, Next.js, Product Development             |
+| System Design          | Scalability, Architecture, Design Patterns      |
+| AI Applications        | RAG, Agents, AI Workflows                       |
+| Data & Analytics       | SQL, Customer Analytics, Dashboards             |
+| Computer Science       | DBMS, OS, CN, OOP                               |
+| Problem Solving        | DSA & Interview Preparation                     |
 
 ---
 
@@ -65,39 +61,51 @@ Building scalable backend systems, production-ready applications, and AI-powered
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python" />
 </p>
-
----
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
 </p>
-
----
 
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
----
-
-## Database & ORM
+## Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
 </p>
 
----
-
-## DevOps & Tools
+## AI & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,vscode" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,kubernetes" />
 </p>
 
 ---
@@ -106,186 +114,166 @@ Building scalable backend systems, production-ready applications, and AI-powered
 
 ## DevFreebies
 
-Developer resource aggregation platform with scalable backend APIs, authentication, filtering, pagination, and reusable frontend architecture.
+Developer resource platform that helps users discover curated learning resources through scalable APIs, authentication, intelligent filtering, and search capabilities.
 
-### Tech
-`MERN` `JWT` `MongoDB` `REST APIs`
+**Highlights**
 
-<p>
-  <a href="https://dev-freebies-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
-  </a>
+- Authentication & Authorization
+- Search & Filtering
+- Resource Categorization
+- Scalable REST APIs
+- Modular Architecture
 
-  <a href="https://github.com/tanishxdev/DevFreebies">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
-  </a>
-</p>
+**Stack**
+
+`Node.js` `Express.js` `MongoDB` `JWT` `React`
 
 ---
 
 ## Calmind
 
-AI-powered wellness platform focused on structured AI integrations, session workflows, scalable backend architecture, and secure APIs.
+AI-powered wellness platform focused on personalized experiences, AI-assisted workflows, and secure backend architecture.
 
-### Tech
-`Next.js` `Node.js` `AI APIs` `TypeScript`
+**Highlights**
 
-<p>
-  <a href="https://calmind-beta.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
-  </a>
+- AI Integrations
+- User-Centric Workflows
+- Secure APIs
+- Full Stack Architecture
+- Scalable Design
 
-  <a href="https://github.com/TanishKumarDev/calmind">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
-  </a>
-</p>
+**Stack**
+
+`Next.js` `TypeScript` `Node.js` `AI APIs`
 
 ---
 
 ## NotePilot
 
-AI-assisted notes and exam preparation platform with structured AI outputs, optimized response pipelines, and component-driven architecture.
+AI-assisted learning platform that transforms raw content into structured notes, study material, and revision resources.
 
-### Tech
-`React` `Node.js` `AI APIs` `MongoDB`
+**Highlights**
 
-<p>
-  <a href="https://note-pilot-rho.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square"/>
-  </a>
+- AI-Powered Content Generation
+- Learning Workflow Automation
+- Structured Outputs
+- Productivity Features
 
-  <a href="https://github.com/tanishxdev/NotePilot">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square"/>
-  </a>
-</p>
+**Stack**
+
+`React` `Node.js` `MongoDB` `AI APIs`
 
 ---
 
-# Work Experience
+## Customer Shopping Behavior Analysis
+
+End-to-end analytics project focused on understanding customer purchasing behavior, identifying revenue opportunities, and generating business recommendations.
+
+**Highlights**
+
+- Data Cleaning
+- Feature Engineering
+- Customer Segmentation
+- SQL Analysis
+- Power BI Dashboarding
+- Business Storytelling
+
+**Stack**
+
+`Python` `PostgreSQL` `SQL` `Power BI`
+
+---
+
+## Zomato Customer Behavior Analysis
+
+Restaurant analytics project exploring customer preferences, online ordering trends, ratings, spending patterns, and engagement behavior.
+
+**Highlights**
+
+- Exploratory Data Analysis
+- Data Visualization
+- Business Insights
+- Statistical Analysis
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+---
+
+# Experience
 
 ## Backend Developer Intern — Zigguratss
 
-### Mar 2026 — Present
+**Mar 2026 — Present**
 
-- Designed and maintained 10+ scalable REST APIs supporting core product workflows
-- Improved API and database performance by optimizing redundant queries and response handling
-- Modeled scalable PostgreSQL and MongoDB schemas for reliable system architecture
-- Implemented validation, rate limiting, and failure-safe backend logic
-- Collaborated across frontend and backend teams for end-to-end feature delivery
-- Contributed to modular backend architecture and scalable system growth
+- Designed and maintained scalable REST APIs
+- Optimized backend and database performance
+- Modeled PostgreSQL and MongoDB schemas
+- Implemented validation and security mechanisms
+- Collaborated across engineering teams
 
-### Tech
-`Node.js` `Express.js` `PostgreSQL` `MongoDB` `REST APIs`
+**Tech:** `Node.js` `Express.js` `PostgreSQL` `MongoDB`
 
 ---
 
 ## Frontend Developer Intern — Tech Mahindra Foundation
 
-### Feb 2022 — May 2022
+**Feb 2022 — May 2022**
 
-- Developed reusable and responsive UI components
-- Integrated frontend with REST APIs and managed reliable data flow
-- Debugged UI/API issues and improved application consistency
-- Worked on scalable component-driven frontend architecture
+- Developed reusable UI components
+- Integrated frontend applications with APIs
+- Improved responsiveness and user experience
 
-### Tech
-`React.js` `JavaScript` `REST APIs`
+**Tech:** `React.js` `JavaScript`
 
 ---
 
-# Open Source Contributions
+# Open Source
 
-- Exploring real-world open-source collaboration workflows
-- Contributing through issue fixing, debugging, and feature improvements
-- Interested in backend engineering, developer tooling, and scalable systems
-- Continuously improving code quality, architecture understanding, and production practices
+Interested in contributing to:
 
----
+- Backend Engineering
+- Developer Tools
+- AI Applications
+- System Design Projects
+- Open Source Infrastructure
 
-## Areas of Interest
-
-- Backend Infrastructure
-- API Architecture
-- Performance Optimization
-- Developer Experience
-- AI-powered Applications
-- System Design
-- Distributed Systems
+Current contributions include bug fixes, documentation improvements, issue discussions, and feature enhancements.
 
 ---
 
-# Data Structures & Algorithms
+# Problem Solving
 
-Consistently solving DSA problems to improve:
+Consistently practicing Data Structures & Algorithms to improve:
 
-- Problem-solving ability
-- Optimization thinking
-- Edge-case handling
-- Performance analysis
-- Interview preparation
-
----
-
-## Platforms
-
-<p>
-
-<a href="https://leetcode.com/u/tanishxdev/">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/tanish_29">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.naukri.com/code360/profile/Tanish_29">
-  <img src="https://img.shields.io/badge/Code360-Active-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://unstop.com/u/23me2tan9891">
-  <img src="https://img.shields.io/badge/Unstop-Profile-purple?style=for-the-badge"/>
-</a>
-
-</p>
+- Problem Solving
+- Optimization Thinking
+- Edge Case Handling
+- Software Engineering Fundamentals
+- Technical Interview Preparation
 
 ---
 
-# CS Fundamentals
+# Core Computer Science
 
-Continuously revising and applying:
-
-- Operating Systems
-- DBMS
-- Computer Networks
-- OOPs
-- API Design
-- Backend Architecture
-- Scalability Concepts
-
-These concepts directly influence how I design backend systems and scalable applications.
+| Subject           | Focus                                   |
+| ----------------- | --------------------------------------- |
+| DBMS              | Database Design, Transactions, Indexing |
+| Operating Systems | Processes, Memory, Concurrency          |
+| Computer Networks | HTTP, TCP/IP, DNS                       |
+| OOP               | Design Principles & Patterns            |
+| System Design     | Scalability & Distributed Systems       |
 
 ---
 
-# Engineering Principles
-
-```txt
-• Clean Architecture
-• Scalable Backend Design
-• Separation of Concerns
-• Performance-aware Development
-• Production-first Thinking
-• Learn by Building
-```
-
----
-
-# GitHub Insights
+# GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=tanishxdev&theme=github-dark&hide_border=true&border_radius=10" />
+<img width="49%" src="https://streak-stats.demolab.com?user=tanishxdev&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -294,6 +282,17 @@ These concepts directly influence how I design backend systems and scalable appl
 # Contribution Graph
 
 <p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=tanishxdev&theme=github-compact&hide_border=true&radius=10" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishxdev&theme=github-compact&hide_border=true" />
 </p>
+
+---
+
+### Currently Building
+
+- Production-ready backend systems
+- AI-powered applications
+- Data-driven products
+- Open source contributions
+- Stronger system design foundations
+
+---
