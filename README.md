@@ -2,47 +2,36 @@
 
 # Tanish Kumar
 
-### Software Engineer • Backend Engineer • Product Builder
+### Backend Engineer • AI Engineer • Data & Product Builder
 
-Building scalable products, AI-powered applications, and data-driven systems that solve real-world problems.
+Building APIs, AI workflows, analytics systems, and products that people actually use.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Engineering;Full+Stack+Development;AI-Powered+Applications;System+Design+%26+Scalable+APIs" />
-
-<br/>
-
-<a href="https://tanishxdev-site.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/tanish29">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tanish.kumar.works@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/tanishxdev/">
-  <img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;AI+Systems;Data+Analytics;Open+Source;DevOps+%26+Automation;Building+Products" /> -->
 
 </div>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishxdev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> -->
+# Hey 👋
+
+I'm Tanish.
+
+Most of my time goes into building backend systems, AI-powered applications, and exploring how products, data, and engineering come together.
+
+I enjoy working on APIs, databases, automation, analytics, and shipping things from idea to deployment.
+
+Outside code, I'm interested in product thinking, business, communication, and understanding how software creates value.
 
 ---
 
-# About Me
+# Areas I Work In
 
-I'm a Software Engineer who enjoys building things from scratch and learning how real-world systems work.
-
-My interests include backend engineering, full-stack development, AI applications, and data-driven products. I enjoy working on APIs, databases, product features, and solving problems that have a real impact on users.
-
-Beyond coding, I'm curious about how products grow, how teams make decisions, and how data can be used to improve user experiences.
-
-**Currently exploring system design, AI workflows, RAG systems, and scalable architectures while consistently practicing DSA and strengthening core computer science fundamentals.**
+- Backend Engineering
+- AI & GenAI Applications
+- Data Analytics & Business Insights
+- DevOps & Automation
+- Open Source
+- Full Stack Product Development
+- System Design
+- Problem Solving (DSA)
 
 # Education
 
@@ -118,43 +107,13 @@ Beyond coding, I'm curious about how products grow, how teams make decisions, an
 
 # Featured Projects
 
-## DevFreebies
-
-Developer resource platform helping users discover curated learning resources through scalable APIs, authentication, search, and intelligent filtering.
-
-**Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `React`
-
----
-
-## Calmind
-
-AI-powered wellness platform focused on personalized experiences, AI-assisted workflows, and secure backend architecture.
-
-**Stack:** `Next.js` `TypeScript` `Node.js` `AI APIs`
-
----
-
-## NotePilot
-
-AI-assisted learning platform that transforms raw content into structured notes, study material, and revision resources.
-
-**Stack:** `React` `Node.js` `MongoDB` `AI APIs`
-
----
-
-## Customer Shopping Behavior Analysis
-
-End-to-end analytics project focused on customer behavior, purchasing trends, segmentation, and business recommendations.
-
-**Stack:** `Python` `SQL` `PostgreSQL` `Power BI`
-
----
-
-## Zomato Customer Behavior Analysis
-
-Restaurant analytics project exploring customer preferences, online ordering trends, ratings, and spending patterns.
-
-**Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+| Project                             | Description                                                           | Stack                                | Live | Code |
+| ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------ | ---- | ---- |
+| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | 🔗   | 🔗   |
+| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | 🔗   | 🔗   |
+| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | 🔗   | 🔗   |
+| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | 🔗   | 🔗   |
+| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | 🔗   | 🔗   |
 
 ---
 
@@ -186,35 +145,33 @@ Restaurant analytics project exploring customer preferences, online ordering tre
 
 ---
 
-# Currently Learning & Building
+# Open Source
 
-- Backend Architecture & Scalable APIs
-- System Design & Distributed Systems
-- AI Applications, RAG & Agents
-- Full Stack Product Development
-- Open Source Contributions
-- Data Structures & Algorithms
-- DBMS, OS, CN & OOP
+### CloudCertPrep
 
----
+Merged PR #82
 
-# GitHub Stats
+**test: extract and unit test spaced repetition selection**
 
-<div align="center">
+Refactored the adaptive question selection engine by extracting business logic from React hooks into reusable utility modules and added comprehensive unit tests.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true" />
+### Contributions
 
-<img width="49%" src="https://streak-stats.demolab.com?user=tanishxdev&theme=github-dark&hide_border=true" />
+- Extracted spaced repetition engine into a pure module.
+- Separated UI logic from business logic.
+- Added tests for:
+  - guest selection
+  - unseen-question quota
+  - excluded-question backfill
+  - duplicate prevention
+- Preserved existing behavior while improving maintainability.
+- Verified with 221 passing tests and lint checks.
 
-</div>
+**Tech**
 
----
+React • TypeScript • Vitest • Unit Testing
 
-# Contribution Graph
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishxdev&theme=github-compact&hide_border=true" />
-</p>
+PR merged successfully.
 
 ---
 
