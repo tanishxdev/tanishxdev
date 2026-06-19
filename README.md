@@ -46,7 +46,7 @@ Open-source contributor with merged contributions to CloudCertPrep, where I refa
 | **AI & GenAI**       | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat)                                                                                                                                                                                                                                                                                                             |
 | **Data & Analytics** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-130088?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)                                                                                                                 |
 | **DevOps & Cloud**   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)                                                                                                                                                                                                                                                                     |
-| **Tools**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)                                                                                                                                                                                                                                                                 |
+| **Tools**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)                                                                                                                                                                                                                                                                                                                                                              |
 
 ---
 
@@ -64,59 +64,43 @@ Open-source contributor with merged contributions to CloudCertPrep, where I refa
 
 # Experience
 
-## Backend Developer Intern — Zigguratss
+### Backend Developer Intern · Zigguratss
 
-**Mar 2026 — Present**
+**Mar 2026 – Present**
 
-- Designed and maintained scalable REST APIs
-- Optimized backend and database performance
-- Modeled PostgreSQL and MongoDB schemas
-- Implemented validation and security mechanisms
-- Collaborated across engineering teams
+- Designed and maintained scalable REST APIs.
+- Optimized PostgreSQL and MongoDB performance.
+- Implemented validation and security mechanisms.
 
-**Tech:** `Node.js` `Express.js` `PostgreSQL` `MongoDB`
+**Tech:** Node.js • Express • PostgreSQL • MongoDB
 
 ---
 
-## Frontend Developer Intern — Tech Mahindra Foundation
+### Frontend Developer Intern · Tech Mahindra Foundation
 
-**Feb 2022 — May 2022**
+**Feb 2022 – May 2022**
 
-- Developed reusable UI components
-- Integrated frontend applications with APIs
-- Improved responsiveness and user experience
+- Built reusable React components.
+- Integrated frontend applications with APIs.
+- Improved responsiveness and UI consistency.
 
-**Tech:** `React.js` `JavaScript`
+**Tech:** React • JavaScript
 
 ---
 
 # Open Source
 
-### CloudCertPrep
-
-Merged PR #82
+### CloudCertPrep · PR #82 ✅
 
 **test: extract and unit test spaced repetition selection**
 
-Refactored the adaptive question selection engine by extracting business logic from React hooks into reusable utility modules and added comprehensive unit tests.
-
-### Contributions
-
-- Extracted spaced repetition engine into a pure module.
-- Separated UI logic from business logic.
-- Added tests for:
-  - guest selection
-  - unseen-question quota
-  - excluded-question backfill
-  - duplicate prevention
-- Preserved existing behavior while improving maintainability.
+- Extracted spaced repetition logic from React hooks into reusable modules.
+- Added unit tests for guest selection, unseen quotas, backfill behavior, and duplicate prevention.
 - Verified with 221 passing tests and lint checks.
 
-**Tech**
+**Tech:** TypeScript • React • Vitest • Unit Testing
 
-React • TypeScript • Vitest • Unit Testing
-
-PR merged successfully.
+🔗[ PR Link](https://github.com/nastaso/cloudcertprep/pull/82)
 
 ---
 
