@@ -10,6 +10,18 @@ Building APIs, AI workflows, analytics systems, and products that people actuall
 
 </div>
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Areas I Work In](#areas-i-work-in)
+- [Education](#education)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Experience](#experience)
+- [Open Source](#open-source)
+- [Looking For](#looking-for)
+- [GitHub Insights](#github-insights)
+
 ## About Me
 
 Backend-focused Software Engineer and B.Tech student at Delhi Technological University (DTU). I enjoy building APIs, AI-powered applications, analytics projects, and end-to-end products.
@@ -52,13 +64,13 @@ Open-source contributor with merged contributions to CloudCertPrep, where I refa
 
 # Featured Projects
 
-| Project                             | Description                                                           | Stack                                | Live | Code |
-| ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------ | ---- | ---- |
-| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | [Live](https://dev-freebies-alpha.vercel.app/)   | [Source Code](https://github.com/tanishxdev/DevFreebies)    |
-| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | [Live](https://calmind-beta.vercel.app/)   | [Source Code](https://github.com/tanishxdev/Calmind)    |
-| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | [Live](https://notepilotislivenow.vercel.app/)   | [Source Code](https://github.com/tanishxdev/NotePilot)    |
-| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)    |
-| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)    |
+| Project                             | Description                                                           | Stack                                | Live                                                                      | Code                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | [Live](https://dev-freebies-alpha.vercel.app/)                            | [Source Code](https://github.com/tanishxdev/DevFreebies)                         |
+| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | [Live](https://calmind-beta.vercel.app/)                                  | [Source Code](https://github.com/tanishxdev/Calmind)                             |
+| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | [Live](https://notepilotislivenow.vercel.app/)                            | [Source Code](https://github.com/tanishxdev/NotePilot)                           |
+| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis) | [Source Code](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis) |
+| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   |
 
 ---
 
@@ -113,3 +125,17 @@ Open-source contributor with merged contributions to CloudCertPrep, where I refa
 - AI & Product Engineering Projects
 
 ---
+
+# GitHub Insights
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishxdev&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishxdev&theme=github_dark" />
+</p>
