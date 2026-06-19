@@ -54,11 +54,11 @@ Open-source contributor with merged contributions to CloudCertPrep, where I refa
 
 | Project                             | Description                                                           | Stack                                | Live | Code |
 | ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------ | ---- | ---- |
-| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | [Live](https://dev-freebies-alpha.vercel.app/)   | [Live](https://github.com/tanishxdev/DevFreebies)    |
-| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | [Live](https://calmind-beta.vercel.app/)   | [Live](https://github.com/tanishxdev/Calmind)    |
-| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | [Live](https://notepilotislivenow.vercel.app/)   | [Live](https://github.com/tanishxdev/NotePilot)    |
-| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)   | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)    |
-| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)    |
+| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | [Live](https://dev-freebies-alpha.vercel.app/)   | [Source Code](https://github.com/tanishxdev/DevFreebies)    |
+| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | [Live](https://calmind-beta.vercel.app/)   | [Source Code](https://github.com/tanishxdev/Calmind)    |
+| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | [Live](https://notepilotislivenow.vercel.app/)   | [Source Code](https://github.com/tanishxdev/NotePilot)    |
+| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis)    |
+| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)    |
 
 ---
 
