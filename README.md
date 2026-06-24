@@ -4,7 +4,7 @@
 
 **Backend Engineer · AI Systems · Full Stack Builder**
 
-Self-taught developer turning CS fundamentals and production code into things people actually use.
+Self-taught developer | Learning by shipping — APIs, AI platforms, and products built from scratch
 
 [![Email](https://img.shields.io/badge/Email-tanish.kumar.works@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanish.kumar.works@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanish29-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish29)
