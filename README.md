@@ -2,140 +2,104 @@
 
 # Tanish Kumar
 
-### Backend Engineer • AI Engineer • Data & Product Builder
+**Backend Engineer · AI Systems · Full Stack Builder**
 
-Building APIs, AI workflows, analytics systems, and products that people actually use.
+Self-taught developer turning CS fundamentals and production code into things people actually use.
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;AI+Systems;Data+Analytics;Open+Source;DevOps+%26+Automation;Building+Products" /> -->
+[![Email](https://img.shields.io/badge/Email-tanish.kumar.works@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanish.kumar.works@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanish29-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish29)
+[![GitHub](https://img.shields.io/badge/GitHub-TanishxDev-181717?style=flat&logo=github&logoColor=white)](https://github.com/TanishxDev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-tanishxdev-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishxdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanishxdev--site.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://tanishxdev-site.vercel.app/)
 
 </div>
 
-## Table of Contents
+---
 
-- [About Me](#about-me)
-- [Areas I Work In](#areas-i-work-in)
-- [Education](#education)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [Experience](#experience)
-- [Open Source](#open-source)
-- [Looking For](#looking-for)
-- [GitHub Insights](#github-insights)
+## About
 
-## About Me
+Backend-focused engineer and B.Tech student at **Delhi Technological University (DTU)**. I build REST APIs, AI-powered platforms, and full-stack products end-to-end — from database schema to deployment.
 
-Backend-focused Software Engineer and B.Tech student at Delhi Technological University (DTU). I enjoy building APIs, AI-powered applications, analytics projects, and end-to-end products.
-
-Currently working across backend engineering, GenAI, data analytics, and DevOps while strengthening fundamentals in system design and computer science.
-
-Open-source contributor with merged contributions to CloudCertPrep, where I refactored the spaced repetition engine, separated business logic from React hooks, and added unit tests to improve maintainability and reliability.
+- 🏆 **Top 1.2%** — AlgoUniversity Accelerator (Y Combinator-backed), selected from 100K+ applicants
+- 💡 **295+ LeetCode problems** solved · Contest Rating: **1404**
+- 🔧 Currently interning at **Zigguratss** building production backend services
+- 🌱 Deepening skills in system design, GenAI pipelines, and distributed systems
 
 ---
 
-# Areas I Work In
+## Tech Stack
 
-- Backend Engineering
-- AI & GenAI Applications
-- Data Analytics & Business Insights
-- DevOps & Automation
-- Open Source
-- Full Stack Product Development
-- System Design
-- Problem Solving (DSA)
-
-# Education
-
-## 🎓 **B.Tech Undergrad** · **Delhi Technological University (DTU), Delhi** · [dtu.ac.in](https://dtu.ac.in/)
-
-# Tech Stack
-
-| Area                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**        | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend**         | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)                                                                                                                                                                                                                                                             |
-| **Backend**          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)                                                                                                                                                                                                                                                                                                                                     |
-| **Databases**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **AI & GenAI**       | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat)                                                                                                                                                                                                                                                                                                             |
-| **Data & Analytics** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-130088?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)                                                                                                                 |
-| **DevOps & Cloud**   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)                                                                                                                                                                                                                                                                     |
-| **Tools**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)                                                                                                                                                                                                                                                                                                                                                              |
+| Area | Technologies |
+|------|-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| **Databases & Systems** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-6C47FF?style=flat) |
+| **Core CS** | DSA · OOP · DBMS · Operating Systems · System Design |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-| Project                             | Description                                                           | Stack                                | Live                                                                      | Code                                                                             |
-| ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| DevFreebies                         | Developer resource platform with authentication, search and filtering | Node.js, Express, MongoDB, React     | [Live](https://dev-freebies-alpha.vercel.app/)                            | [Source Code](https://github.com/tanishxdev/DevFreebies)                         |
-| Calmind                             | AI-powered wellness platform with async workflows                     | Next.js, TypeScript, Gemini, Inngest | [Live](https://calmind-beta.vercel.app/)                                  | [Source Code](https://github.com/tanishxdev/Calmind)                             |
-| NotePilot                           | AI-assisted learning and notes platform                               | React, Node.js, MongoDB              | [Live](https://notepilotislivenow.vercel.app/)                            | [Source Code](https://github.com/tanishxdev/NotePilot)                           |
-| Customer Shopping Behavior Analysis | Customer segmentation and analytics dashboard                         | Python, SQL, Power BI                | [Live](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis) | [Source Code](https://github.com/tanishxdev/Customer-Shopping-Behavior-Analysis) |
-| Zomato Customer Behavior Analysis   | Restaurant trends and customer analytics                              | Python, Pandas, Matplotlib           | [Live](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   | [Source Code](https://github.com/tanishxdev/Zomato-Customer-Behavior-Analysis)   |
+| Project | Problem Solved | Stack | Links |
+|---------|---------------|-------|-------|
+| **NotePilot AI** | Students spend 20–30 min manually preparing notes per topic. NotePilot generates structured notes, diagrams, and revision sheets in under 60-180 seconds using AI. | React, Node.js, Express, MongoDB, Firebase, Gemini API, Stripe | [Live](https://notepilotislivenow.vercel.app/) · [Code](https://github.com/tanishxdev/notepilot) |
+| **Calmind** | Mental wellness tools are either too clinical or don't persist user context. Calmind combines journaling, mood tracking, and AI chat with async background jobs for a personalized experience. | Next.js, TypeScript, Node.js, Express, MongoDB, OpenAI, Inngest | [Live](https://calmind-beta.vercel.app) · [Code](https://github.com/TanishKumarDev/calmind) |
+| **DevFreebies** | Developer resources are scattered across dozens of sites with no curation or filtering. DevFreebies centralizes them with search, bookmarks, user submissions, and moderation. | React, Node.js, Express, MongoDB, JWT, Tailwind CSS | [Live](https://dev-freebies-alpha.vercel.app) · [Code](https://github.com/TanishxDev/DevFreebies) |
 
 ---
 
-# Experience
+## Experience
 
-### Backend Developer Intern · Zigguratss
+### Software Engineering Intern · [Zigguratss](https://zigguratss.com)
+**Mar 2026 – Present · Remote**
 
-**Mar 2026 – Present**
+`Node.js` `Express.js` `PostgreSQL` `MongoDB` `GraphQL` `Docker`
 
-- Designed and maintained scalable REST APIs.
-- Optimized PostgreSQL and MongoDB performance.
-- Implemented validation and security mechanisms.
-
-**Tech:** Node.js • Express • PostgreSQL • MongoDB
-
----
-
-### Frontend Developer Intern · Tech Mahindra Foundation
-
-**Feb 2022 – May 2022**
-
-- Built reusable React components.
-- Integrated frontend applications with APIs.
-- Improved responsiveness and UI consistency.
-
-**Tech:** React • JavaScript
+- Designed and maintained backend services supporting production workflows and user-facing features.
+- Implemented REST APIs, validation layers, authentication flows, and business logic across multiple modules.
+- Integrated PostgreSQL and MongoDB, optimizing queries and improving application reliability.
+- Maintained code quality through Git-based workflows, debugging, monitoring, and sprint collaboration.
 
 ---
 
-# Open Source
+## Open Source
 
-### CloudCertPrep · PR #82 ✅
+### [CloudCertPrep](https://github.com/nastaso/cloudcertprep) · PR [#82](https://github.com/nastaso/cloudcertprep/pull/82) ✅ Merged
 
-**test: extract and unit test spaced repetition selection**
+`TypeScript` `React` `Vitest` `Unit Testing`
 
-- Extracted spaced repetition logic from React hooks into reusable modules.
-- Added unit tests for guest selection, unseen quotas, backfill behavior, and duplicate prevention.
-- Verified with 221 passing tests and lint checks.
+**Problem:** Spaced repetition logic was tightly coupled inside React hooks, making it impossible to test in isolation and risky to change without breaking behavior.
 
-**Tech:** TypeScript • React • Vitest • Unit Testing
-
-🔗[ PR Link](https://github.com/nastaso/cloudcertprep/pull/82)
+**What I did:** Extracted the spaced repetition engine into a standalone reusable module, then wrote unit tests covering guest selection, unseen quotas, backfill behavior, and duplicate prevention — verified with 221 passing tests and lint checks.
 
 ---
 
-### Looking For
+## Education
 
-- Software Engineering Opportunities
-- Backend Engineering Roles
-- Full Stack Development Roles
-- Open Source Collaborations
-- AI & Product Engineering Projects
+**B.Tech, Mechanical Engineering** · Delhi Technological University (DTU), New Delhi · *Aug 2023 – Jun 2027*
+
+Self-taught in Software Engineering, Backend Development, and AI Automation alongside coursework.
 
 ---
 
-# GitHub Insights
+## GitHub Insights
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanishxdev&show_icons=true&theme=github_dark&hide_border=true" />
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishxdev&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishxdev&theme=github_dark" />
 
 </div>
 
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishxdev&theme=github_dark" />
-</p>
+---
+
+<div align="center">
+
+**Open to:** Backend Engineering Roles · Full Stack Roles · AI & Product Engineering · Open Source Collaborations
+
+</div>
