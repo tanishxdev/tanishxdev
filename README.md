@@ -79,7 +79,7 @@ Backend-focused engineer and B.Tech student at **Delhi Technological University 
 
 ## Education
 
-**B.Tech, Mechanical Engineering** · Delhi Technological University (DTU), New Delhi · *Aug 2023 – Jun 2027*
+**B.Tech** · Delhi Technological University (DTU), New Delhi · *Aug 2023 – Jun 2027*
 
 Self-taught in Software Engineering, Backend Development, and AI Automation alongside coursework.
 
