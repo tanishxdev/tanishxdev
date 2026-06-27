@@ -24,7 +24,7 @@ Backend-focused engineer and B.Tech student at **Delhi Technological University 
 - 🔧 Currently interning at **Zigguratss** building production backend services
 - 🌱 Deepening skills in system design, GenAI pipelines, and distributed systems
 - 🔀 Open source contributor — merged PR to CloudCertPrep, extracted spaced repetition engine with 221 passing tests
-- 🛠️ Self-taught — no CS degree, built 3 shipped products across backend, AI, and full stack
+- 🛠️ Self-taught —  built 3 shipped products across backend, AI, and full stack
 ---
 
 ## Tech Stack
