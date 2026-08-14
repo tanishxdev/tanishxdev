@@ -50,28 +50,45 @@ Backend-focused engineer and B.Tech student at **Delhi Technological University 
 | **DevFreebies** | Developer resources are scattered across dozens of sites with no curation or filtering. DevFreebies centralizes them with search, bookmarks, user submissions, and moderation. | React, Node.js, Express, MongoDB, JWT, Tailwind CSS | [Live](https://dev-freebies-alpha.vercel.app) · [Code](https://github.com/TanishxDev/DevFreebies) |
 
 ---
----
-
 ## Open Source & Developer Tools
 
-### env-safe · Node.js Environment Variable Validation Library
+### [CloudCertPrep](https://github.com/nastaso/cloudcertprep) · PR [#82](https://github.com/nastaso/cloudcertprep/pull/82) ✅ Merged
 
-A lightweight, dependency-free Node.js library for validating environment variables at runtime with a simple, composable validator API.
+`TypeScript` `React` `Vitest` `Unit Testing`
 
-Instead of allowing invalid configuration to cause unexpected runtime failures, `env-safe` validates application configuration early and fails fast with meaningful validation errors.
+**Problem:** Spaced repetition logic was tightly coupled inside React hooks, making it difficult to test independently and risky to modify.
 
-**Highlights:**
-- 🚀 Dependency-free runtime environment validation
-- 🔒 Fail-fast configuration validation
-- 🧩 Composable validator architecture
-- 📦 Modern ESM package
-- ✅ Built-in String, Number, Boolean, Email, URL, and Enum validators
-- 🧪 Unit + integration test coverage
-- ⚙️ ESLint, Prettier, Husky, and GitHub Actions CI
-- 📊 ~92% statement coverage across 86+ tests
-- 📦 Published as an npm package
+**What I did:**
 
-**Stack:** `JavaScript` `Node.js` `ESM` `npm` `Vitest` `ESLint` `Prettier` `GitHub Actions`
+* Extracted the spaced repetition engine into a standalone, reusable module.
+* Added unit tests covering guest selection, unseen quotas, backfill behavior, and duplicate prevention.
+* Verified the changes with **221 passing tests** and lint checks.
+
+**Impact:** Improved separation of concerns and made the core learning logic independently testable and safer to evolve.
+
+**Links:** [Repository](https://github.com/nastaso/cloudcertprep) · [PR #82](https://github.com/nastaso/cloudcertprep/pull/82)
+
+---
+
+### [env-safe](https://github.com/tanishxdev/env-safe) · Published npm Package · Node.js Environment Validation Library 
+
+`JavaScript` `Node.js` `ESM` `npm` `Vitest` `ESLint` `GitHub Actions`
+
+**Problem:** Invalid environment variables can cause unexpected runtime failures and cryptic configuration errors after an application starts.
+
+**What I built:**
+- 📦 Built and published `@tanishxdev/env-safe`, a lightweight **runtime environment-variable validation library for Node.js**.
+- 🪶 Designed the package with **0 runtime dependencies** and a small, composable public API.
+- 🔒 Implemented **fail-fast configuration validation** with meaningful validation errors.
+- 🧩 Added built-in validators for **String, Number, Boolean, Email, URL, and Enum** values.
+- 🧪 Added unit, integration, validator, and runtime validation tests with **86+ tests and ~92% statement coverage**.
+- ⚙️ Set up **ESLint, Prettier, Husky, and GitHub Actions CI** for automated quality checks.
+- 📚 Added installation, API, examples, project structure, development scripts, and release roadmap documentation.
+- 🚀 Published the first stable package release as **v0.1.0** under the MIT license.
+
+**Impact:** Created a reusable developer tool that allows Node.js applications to validate configuration at startup instead of discovering invalid environment values later during execution.
+
+**Impact:** Provides Node.js applications with a small, reusable configuration-validation layer that catches invalid environment values before they propagate into application logic.
 
 **Links:** [GitHub](https://github.com/tanishxdev/env-safe) · [npm](https://www.npmjs.com/package/@tanishxdev/env-safe)
 
@@ -95,18 +112,6 @@ Instead of allowing invalid configuration to cause unexpected runtime failures, 
 - 🔄 **Worked through Git-based engineering workflows** including feature branches, release branches, merge-conflict resolution, code review, PR iteration, and CI/CD workflows. Authored and merged multiple feature PRs and contributed review feedback to shared documentation and GraphQL development workflows.
 
 - 📚 **Expanded backend engineering experience beyond CRUD APIs** through hands-on work with GraphQL schema design, layered architecture, authentication/security, relational databases, asynchronous jobs, API error semantics, debugging, and production-oriented development practices.
-
----
-
-## Open Source
-
-### [CloudCertPrep](https://github.com/nastaso/cloudcertprep) · PR [#82](https://github.com/nastaso/cloudcertprep/pull/82) ✅ Merged
-
-`TypeScript` `React` `Vitest` `Unit Testing`
-
-**Problem:** Spaced repetition logic was tightly coupled inside React hooks, making it impossible to test in isolation and risky to change without breaking behavior.
-
-**What I did:** Extracted the spaced repetition engine into a standalone reusable module, then wrote unit tests covering guest selection, unseen quotas, backfill behavior, and duplicate prevention — verified with 221 passing tests and lint checks.
 
 ---
 
